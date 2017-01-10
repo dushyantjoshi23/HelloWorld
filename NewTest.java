@@ -8,6 +8,7 @@ public class NewTest {
 	  WebDriver wd = new FireFoxDriver();
 	  wd.get("http://9.17.237.67:9080/SCOPEWEB");
 	  System.out.println("ddAdding comt");
+	  System.out.println("ddAdding comt");
 	  
   }
   
