@@ -9,6 +9,7 @@ public class NewTest {
 	  wd.get("http://9.17.237.67:9080/SCOPEWEB");
 	  System.out.println("mmAdding comt");
 	  System.out.println("ddAdding comt");
+	  System.out.println("ddAdding comt");
 	  
   }
   
